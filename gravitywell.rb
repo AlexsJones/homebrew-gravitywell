@@ -1,8 +1,8 @@
 class Gravitywell < Formula
   desc "Turn a pool of Docker hosts into a single, virtual host"
   homepage "https://github.com/AlexsJones/gravitywell"
-  url "https://github.com/AlexsJones/gravitywell/releases/download/v0.5.0/gravitywell_0.5.0_Darwin_amd64.tar.gz"
-  sha256 "83c165615401b6ebc7ed9137ea85aaab9e28b4d1a2ae5ee8a09752dad8688b1a"
+  url "https://github.com/AlexsJones/gravitywell/releases/download/v0.5.1/gravitywell_0.5.1_Darwin_amd64.tar.gz"
+  sha256 "b8688cf907b4147f9a598b92e7624a45de8efb99d8170aa321ef34e64fbb7577"
   head "https://github.com/AlexsJones/gravitywell.git"
 
   def install
