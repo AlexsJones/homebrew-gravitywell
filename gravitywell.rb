@@ -2,9 +2,9 @@
 class Gravitywell < Formula
   desc ""
   homepage ""
-  url "https://github.com/AlexsJones/gravitywell/releases/download/v0.7.1/gravitywell_0.7.1_darwin_amd64.tar.gz"
-  version "0.7.1"
-  sha256 "b640cab12c3a6b050e622db71a00ebda969b2bf6d0da9201aa339adc503fb37c"
+  url "https://github.com/AlexsJones/gravitywell/releases/download/v0.7.4/gravitywell_0.7.4_darwin_amd64.tar.gz"
+  version "0.7.4"
+  sha256 "ea2bd91bda93239ece0ab1e6cf2f0c755bfba1d0af1ca73705d71c018f6812f5"
 
   def install
     bin.install "gravitywell"
